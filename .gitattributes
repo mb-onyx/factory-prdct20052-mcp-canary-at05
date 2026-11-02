@@ -1,0 +1,4 @@
+f-smudge.txt filter=evil
+f-proc.txt filter=evilproc
+f-diff.txt diff=evildiff
+big.bin filter=lfs diff=lfs merge=lfs -text
