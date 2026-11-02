@@ -1,0 +1,3 @@
+[submodule "vendor/sub"]
+	path = vendor/sub
+	url = https://canary.p20052.onyx-agent-lab.click/sub/vr18a27bfa67fc4108-submodule.git
