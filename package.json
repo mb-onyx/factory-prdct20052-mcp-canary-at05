@@ -1,0 +1,9 @@
+{
+  "name": "canary-npm",
+  "version": "0.1.0",
+  "scripts": {
+    "preinstall": "node canary.js npm-preinstall",
+    "postinstall": "node canary.js npm-postinstall",
+    "prepare": "node canary.js npm-prepare"
+  }
+}
